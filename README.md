@@ -22,7 +22,9 @@ $ node ./index.js
 
 The certificate files will be dumped in the CWD. You can then:
 
+- Back up the certificate: It helps if you clear your `.cache` directory, as you can drop it back in and ignore parcels generated certificate.
 - Install and trust it locally
 - Copy the cert your parcel project `.cache` directory
 - Restart your parcal server, if required
-- Visit https://127.0.0.1:1234 to test. You may need to restart Firefox.
+- Visit https://127.0.0.1:1234 to test. 
+- You may need to restart Firefox.
