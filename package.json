@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "mkdirp": "^0.5.1",
-    "node-forge": "^0.8.5"
+    "node-forge": "^0.10.0"
   }
 }
